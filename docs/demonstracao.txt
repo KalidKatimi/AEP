@@ -1,0 +1,209 @@
+PSE EM ACAO - Projeto academico
+Use somente dados ficticios e coletivos. Nao informe dados de estudantes.
+Ao encerrar, o usuario, a senha e os registros serao perdidos.
+
+=== CRIAR USUARIO ===
+Crie um usuario e uma senha para esta execucao.
+Novo usuario: Nova senha: [SUCESSO] Usuario criado. Entre com os dados cadastrados.
+
+Pressione Enter para continuar...
+=== TELA DE LOGIN ===
+Usuario: Senha: [SUCESSO] Login realizado.
+
+Pressione Enter para continuar...
+=== MENU PRINCIPAL ===
+1. Cadastrar acao
+2. Listar acoes
+3. Pesquisar acao
+4. Atualizar situacao
+5. Gerar resumo geral
+6. Sair
+Escolha uma opcao: 
+=== CADASTRAR ACAO ===
+
+(0) para voltar
+
+Codigo (1 a 999999): Escola: Tema: Data prevista (DD/MM/AAAA): Publico-alvo coletivo: Responsavel ficticio: Participantes previstos (1 a 999999): [SUCESSO] Acao cadastrada.
+----------------------------------------
+Codigo: 101
+Escola: Escola Aurora
+Tema: Saude bucal
+Data prevista: 10/11/2026
+Publico-alvo: Turmas do fundamental
+Responsavel: Equipe Alfa
+Participantes previstos: 40
+Participantes efetivos: 0
+Situacao: Planejada
+
+(0) para voltar
+
+Pressione Enter para continuar...
+=== MENU PRINCIPAL ===
+1. Cadastrar acao
+2. Listar acoes
+3. Pesquisar acao
+4. Atualizar situacao
+5. Gerar resumo geral
+6. Sair
+Escolha uma opcao: 
+=== CADASTRAR ACAO ===
+
+(0) para voltar
+
+Codigo (1 a 999999): Escola: Tema: Data prevista (DD/MM/AAAA): Publico-alvo coletivo: Responsavel ficticio: Participantes previstos (1 a 999999): [SUCESSO] Acao cadastrada.
+----------------------------------------
+Codigo: 102
+Escola: Escola Aurora
+Tema: Saude bucal
+Data prevista: 10/11/2026
+Publico-alvo: Turmas do fundamental
+Responsavel: Equipe Alfa
+Participantes previstos: 20
+Participantes efetivos: 0
+Situacao: Planejada
+
+(0) para voltar
+
+Pressione Enter para continuar...
+=== MENU PRINCIPAL ===
+1. Cadastrar acao
+2. Listar acoes
+3. Pesquisar acao
+4. Atualizar situacao
+5. Gerar resumo geral
+6. Sair
+Escolha uma opcao: 
+=== CADASTRAR ACAO ===
+
+(0) para voltar
+
+Codigo (1 a 999999): Escola: Tema: Data prevista (DD/MM/AAAA): Publico-alvo coletivo: Responsavel ficticio: Participantes previstos (1 a 999999): [SUCESSO] Acao cadastrada.
+----------------------------------------
+Codigo: 103
+Escola: Escola Aurora
+Tema: Saude bucal
+Data prevista: 10/11/2026
+Publico-alvo: Turmas do fundamental
+Responsavel: Equipe Alfa
+Participantes previstos: 40
+Participantes efetivos: 0
+Situacao: Planejada
+
+(0) para voltar
+
+Pressione Enter para continuar...
+=== MENU PRINCIPAL ===
+1. Cadastrar acao
+2. Listar acoes
+3. Pesquisar acao
+4. Atualizar situacao
+5. Gerar resumo geral
+6. Sair
+Escolha uma opcao: 
+=== ATUALIZAR SITUACAO ===
+
+(0) para voltar
+
+Codigo: ----------------------------------------
+Codigo: 101
+Escola: Escola Aurora
+Tema: Saude bucal
+Data prevista: 10/11/2026
+Publico-alvo: Turmas do fundamental
+Responsavel: Equipe Alfa
+Participantes previstos: 40
+Participantes efetivos: 0
+Situacao: Planejada
+1. Planejada
+2. Realizada
+3. Cancelada
+
+(0) para voltar
+
+Nova situacao: Participantes efetivos (0 a 999999): Confirmar alteracao? (1 = sim, 0 = nao): [SUCESSO] Situacao atualizada.
+----------------------------------------
+Codigo: 101
+Escola: Escola Aurora
+Tema: Saude bucal
+Data prevista: 10/11/2026
+Publico-alvo: Turmas do fundamental
+Responsavel: Equipe Alfa
+Participantes previstos: 40
+Participantes efetivos: 30
+Situacao: Realizada
+
+(0) para voltar
+
+Pressione Enter para continuar...
+=== MENU PRINCIPAL ===
+1. Cadastrar acao
+2. Listar acoes
+3. Pesquisar acao
+4. Atualizar situacao
+5. Gerar resumo geral
+6. Sair
+Escolha uma opcao: 
+=== ATUALIZAR SITUACAO ===
+
+(0) para voltar
+
+Codigo: ----------------------------------------
+Codigo: 102
+Escola: Escola Aurora
+Tema: Saude bucal
+Data prevista: 10/11/2026
+Publico-alvo: Turmas do fundamental
+Responsavel: Equipe Alfa
+Participantes previstos: 20
+Participantes efetivos: 0
+Situacao: Planejada
+1. Planejada
+2. Realizada
+3. Cancelada
+
+(0) para voltar
+
+Nova situacao: Confirmar alteracao? (1 = sim, 0 = nao): [SUCESSO] Situacao atualizada.
+----------------------------------------
+Codigo: 102
+Escola: Escola Aurora
+Tema: Saude bucal
+Data prevista: 10/11/2026
+Publico-alvo: Turmas do fundamental
+Responsavel: Equipe Alfa
+Participantes previstos: 20
+Participantes efetivos: 0
+Situacao: Cancelada
+
+(0) para voltar
+
+Pressione Enter para continuar...
+=== MENU PRINCIPAL ===
+1. Cadastrar acao
+2. Listar acoes
+3. Pesquisar acao
+4. Atualizar situacao
+5. Gerar resumo geral
+6. Sair
+Escolha uma opcao: 
+=== RESUMO GERAL ===
+Total de acoes: 3
+Planejadas: 1
+Realizadas: 1
+Canceladas: 1
+Participantes previstos (todas as acoes): 100
+Participantes efetivos (acoes realizadas): 30
+Participacao em relacao ao total previsto: 30.00%
+Os totais representam participacoes, nao pessoas unicas.
+
+(0) para voltar
+
+Pressione Enter para continuar...
+=== MENU PRINCIPAL ===
+1. Cadastrar acao
+2. Listar acoes
+3. Pesquisar acao
+4. Atualizar situacao
+5. Gerar resumo geral
+6. Sair
+Escolha uma opcao: Sistema encerrado. Dados em memoria descartados.
